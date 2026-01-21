@@ -1,6 +1,13 @@
 <h1 align="center">Hey There 👋, I'm Abdullah</h1>
 <h3 align="center">Unity Game Developer | 3D Artist</h3>
 
+<br/>
+
+### 👨‍💻 About Me
+I have worked on a diverse range of personal projects, from scripting custom C# mechanics in **Unity** to designing game-ready assets in **Blender**. I am constantly prototyping new ideas to sharpen my skills in Level Design and AR development.
+
+<br/>
+
 <table border="0">
   <tr>
     <td width="60%" valign="center">
@@ -49,10 +56,6 @@
 
 <br/>
 
-### 👨‍💻 Projects
-I have worked on a diverse range of personal projects, from scripting custom C# mechanics in **Unity** to designing game-ready assets in **Blender**. I am constantly prototyping new ideas to sharpen my skills in Level Design and AR development.
-
-<br/>
 
 ### ⚡ Fun Facts
 **Learning Chinese Language:** Expanding my horizons beyond code!
