@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Abdullah</h1>
-<h3 align="center">Unity Game Developer | 3D Artist</h3>
+<h3 align="center">Unity Game Developer </h3>
 
 <br/>
 
@@ -15,8 +15,6 @@ I have worked on a diverse range of personal projects, from scripting custom C# 
         <li>🔭 I’m currently working on <b>AR Campus 360 (A Hybrid AR Navigation System using Vuforia & GPS)</b></li>
         <br/>
         <li>🌱 I’m currently learning <b>Advanced C# Architecture & Industry-Standard Publishing Pipelines</b></li>
-        <br/>
-        <li>👯 I’m looking to collaborate on <b>Open Source Unity Tools & AR Projects</b></li>
         <br/>
         <li>💬 Ask me about <b>Unity, Vuforia Engine, Level Design, & Hard-Surface Modeling</b></li>
       </ul>
@@ -55,10 +53,6 @@ I have worked on a diverse range of personal projects, from scripting custom C# 
 </p>
 
 <br/>
-
-
-### ⚡ Fun Facts
-**Learning Chinese Language:** Expanding my horizons beyond code!
 
 <br/>
 
